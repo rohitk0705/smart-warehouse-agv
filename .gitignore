@@ -1,0 +1,27 @@
+# Local credentials and machine-specific configuration
+config.local.h
+secrets.h
+*.local
+
+# Arduino and editor output
+build/
+.pio/
+.vscode/
+*.elf
+*.bin
+*.map
+
+# Local backups and staging copies
+*.bak
+ATLAS_AGV/
+ATLAS_AGV_CAM_AI_Thinker/
+Literature_Review_Template.xlsx
+AGV_Report.pdf
+IoT_Enabled_Autonomous_Guided_Vehicle_for_Smart_Warehouse_Automation.pdf
+/Prototype_photo.png
+AGV_PPT.pdf
+AGV_Poster.pdf
+
+# OS metadata
+Thumbs.db
+.DS_Store
