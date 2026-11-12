@@ -13,8 +13,6 @@ ESP32-CAM for image capture.
 | [Test-track run](images/prototype/agv-test-track.jpg) | AGV carrying sample packages on the line-following track |
 | [System overview](images/architecture/system-overview.png) | Annotated hardware architecture |
 
-Additional demonstration photos can be added after obtaining consent from
-any identifiable people shown in the frame.
 
 ## Features
 
