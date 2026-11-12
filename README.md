@@ -5,7 +5,16 @@ automation. The prototype combines line following, RFID station
 identification, obstacle detection, local telemetry, Blynk monitoring, and an
 ESP32-CAM for image capture.
 
-![AGV prototype](images/prototype/Prototype_photo.png)
+## Prototype gallery
+
+| Image | Description |
+| --- | --- |
+| [Hardware close-up](images/prototype/agv-hardware-closeup.jpg) | ESP32-CAM, ultrasonic sensor, servo, and wiring |
+| [Test-track run](images/prototype/agv-test-track.jpg) | AGV carrying sample packages on the line-following track |
+| [System overview](images/architecture/system-overview.png) | Annotated hardware architecture |
+
+Additional demonstration photos can be added after obtaining consent from
+any identifiable people shown in the frame.
 
 ## Features
 
